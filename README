@@ -1,0 +1,10 @@
+reduce_along_axis_n_arrays
+==========================
+
+This package provides code to apply along axes using dask
+
+Frederic Laliberte
+Environment and Climate Change Canada, 2016
+
+The Natural Sciences and Engineering Research Council of Canada (NSERC/CRSNG) funded 
+FBL during this project.
